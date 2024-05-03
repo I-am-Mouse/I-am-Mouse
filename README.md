@@ -1,5 +1,5 @@
 Hi there 👋,
-Let's work Together, i am open for collaborations and Projects.
+Let's work Together, I am open for collaborations and Projects.
 <!--
 **I-am-Mouse/I-am-Mouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
